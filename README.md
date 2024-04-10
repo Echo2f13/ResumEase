@@ -1,2 +1,3 @@
 # ResumEase
-A resume screening app developed using Python
+
+A resume screening app developed using Python NLP
