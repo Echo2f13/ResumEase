@@ -1,4 +1,5 @@
 # ResumEase
+
 _Streamlining Resume Screening and Job Role Categorization_
 
 ResumEase is an innovative platform that leverages advanced natural language processing (NLP) and machine learning (ML) techniques to streamline resume screening and categorize job roles with precision. With ResumEase, recruiters can efficiently identify the most promising candidates and make informed hiring decisions.
@@ -34,7 +35,6 @@ ResumEase is an innovative platform that leverages advanced natural language pro
 
       ![alt text](md_img_ignore/inelg_comp.png)
 
-
 ## Datasets Used
 
 ResumEase utilizes two primary datasets:
@@ -46,3 +46,5 @@ ResumEase utilizes two primary datasets:
 2. **CompanyDataSet:** This dataset includes data about companies, including company names, domain names, and minimum scores needed for eligibility.
 
    ![alt text](md_img_ignore/dataset_2.png)
+
+For more information, check out the Project Report: [report.pdf](./porjectReport/ResuEase-Report.pdf)
